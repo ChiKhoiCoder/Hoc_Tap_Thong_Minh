@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 68" role="img" aria-labelledby="title desc">
+  <title id="title">EduNova</title>
+  <desc id="desc">EduNova — Học tập thông minh</desc>
+  <defs>
+    <linearGradient id="mark" x1="8" y1="4" x2="55" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8877F4"/>
+      <stop offset="1" stop-color="#6857DD"/>
+    </linearGradient>
+    <filter id="shadow" x="-35%" y="-30%" width="180%" height="190%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#7666E3" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="3" y="4" width="56" height="56" rx="18" fill="url(#mark)"/>
+    <path d="M43.5 33.2H23.1c.7 4.4 4 7 8.3 7 3.1 0 5.8-1.1 8.1-3.1l3.1 4.4c-3 2.9-7.1 4.5-11.6 4.5-9.1 0-15.3-6-15.3-14.8 0-8.7 6.1-14.8 14.7-14.8 8.1 0 13.5 5.5 13.5 14.1 0 .9-.1 1.8-.4 2.7Zm-20.3-5.1h13.5c-.5-4-2.8-6.2-6.5-6.2-3.6 0-6.2 2.3-7 6.2Z" fill="#fff"/>
+    <circle cx="47.5" cy="13.5" r="2.2" fill="#E9E5FF"/>
+  </g>
+  <text x="72" y="35" fill="#25263A" font-family="DM Sans, Manrope, Arial, sans-serif" font-size="29" font-weight="800" letter-spacing="-1.5">edu<tspan fill="#7161E2">nova</tspan></text>
+  <text x="74" y="54" fill="#9293A8" font-family="DM Sans, Arial, sans-serif" font-size="8.3" font-weight="700" letter-spacing="2.15">HỌC TẬP THÔNG MINH</text>
+</svg>
